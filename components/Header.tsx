@@ -9,7 +9,7 @@ export default function Header() {
         CS303 News
       </h2>
       <nav className="p-2 m-4">
-        <Link href="/" className={linkStyling}>Home</Link>
+        <Link href="/" className={linkStyling}>News</Link>
         <Link href="/about" className={linkStyling}>About</Link>
       </nav>
     </header>
